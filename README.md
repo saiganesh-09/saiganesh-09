@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying btech cse<br>I'm looking for Data Analyst role<br>I'm looking for internship<br>I'm currently learning power bi<br>Searching for a role of analytical and detail-oriented Data Analyst with strong skills in data collection,<br>cleaning, visualization, and interpretation to drive business insights and decision-making. Proficient in tools<br>such as Excel, SQL, Python, and Power BI. Adept at identifying trends, optimizing processes, and delivering<br>actionable reports to support organizational goals. Passionate about transforming raw data into meaningful<br>stories and data-driven strategies.<br><br><br>
+I've recently completed my graduation in computer science in parul university cse<br>I'm looking for Data Analyst role<br>I'm looking for internship<br>I'm currently learning power bi<br>Searching for a role of analytical and detail-oriented Data Analyst with strong skills in data collection,<br>cleaning, visualization, and interpretation to drive business insights and decision-making. Proficient in tools<br>such as Excel, SQL, Python, and Power BI. Adept at identifying trends, optimizing processes, and delivering<br>actionable reports to support organizational goals. Passionate about transforming raw data into meaningful<br>stories and data-driven strategies.<br><br><br>
 
 
 ## 🌐 Socials:
