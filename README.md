@@ -4,7 +4,7 @@
 Hi! I'm Sai Ganesh, a Computer Science graduate passionate about building
 modern and scalable web applications.
 
-💻 Aspiring Full Stack Developer  
+💻 Aspiring Full Stack Developer | Computer Science Graduate
 🌱 Currently improving my skills in React, Next.js, Node.js, Express.js,
    SQL and MongoDB  
 🚀 Interested in building real-world projects and solving practical problems  
@@ -14,7 +14,6 @@ I enjoy turning ideas into functional applications and exploring both
 frontend and backend development.
 
 
-## 🌐 Socials:
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-ganesh-kenguva-92524b267/)
