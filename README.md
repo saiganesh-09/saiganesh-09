@@ -35,7 +35,7 @@ MongoDB • MySQL • PostgreSQL
 Python • Java
 
 ### Tools
-Git • GitHub • Docker • VS Code
+Git • GitHub • PyCharm • VS Code 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saiganesh-09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
