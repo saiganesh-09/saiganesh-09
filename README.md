@@ -52,3 +52,13 @@ I enjoy solving engineering problems around **multi-role systems, real-time appl
 **Core Skills**
 
 `TypeScript` `React` `Next.js` `Node.js` `Express` `NestJS` `PostgreSQL` `Prisma` `FastAPI` `Docker` `REST APIs` `JWT` `RBAC` `Socket.IO` `GitHub Actions`
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiganesh-09/saiganesh-09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiganesh-09/saiganesh-09/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saiganesh-09/saiganesh-09/output/github-contribution-grid-snake.svg" />
+</picture>
