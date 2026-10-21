@@ -30,28 +30,31 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I am an **entry-level Full Stack Developer** and B.Tech Computer Science Engineering graduate focused on building reliable, secure, and production-oriented web applications.
+I'm an aspiring **Full Stack Developer** and Computer Science Engineering graduate passionate about building practical, scalable, and user-friendly web applications.
 
-My engineering approach combines **modern frontend architecture, scalable backend systems, relational databases, API design, authentication, testing, CI/CD, and cloud deployment** to transform product requirements into usable software.
+I work with **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and MongoDB** to develop responsive user interfaces, REST APIs, and database-driven applications.
 
-I work primarily with **Next.js, React, TypeScript, Node.js, Express.js, NestJS, PostgreSQL, Prisma, MongoDB, FastAPI, Docker, and GitHub Actions**, while continuously exploring practical applications of **AI/ML and intelligent automation**.
+My projects focus on real-world problem-solving, authentication, backend development, API integration, and modern application deployment. I'm also exploring **AI-powered applications and intelligent automation** to build more useful software products.
 
-I enjoy solving engineering problems around **multi-role systems, real-time applications, workflow automation, data-driven dashboards, API architecture, security, and developer productivity**.
+I believe in writing clean, maintainable code, learning through hands-on projects, and continuously improving my software engineering skills.
 
-### Open To
+### 🎯 Career Focus
+- Full Stack Developer
+- Software Engineer
+- AI-powered Web Application Development
+- Backend Development and API Design
+- Open-Source Collaboration
 
-- 💼 Full Stack Developer opportunities
-- 🚀 Software Engineering roles
-- 🤖 AI-powered application development
-- 🌐 Open-source collaboration
-- 🧩 Real-world product engineering
-- 📚 Continuous learning and technical growth
+### 🛠️ Core Technologies
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Node.js, Express.js, NestJS, Python, FastAPI  
+**Databases:** PostgreSQL, MongoDB, Prisma  
+**Tools & DevOps:** Git, GitHub, Docker, GitHub Actions, Vercel
 
-**Core Skills**
-
-`TypeScript` `React` `Next.js` `Node.js` `Express` `NestJS` `PostgreSQL` `Prisma` `FastAPI` `Docker` `REST APIs` `JWT` `RBAC` `Socket.IO` `GitHub Actions`
+### 🚀 Current Goal
+Building and deploying practical full-stack projects, strengthening problem-solving skills, and preparing for software engineering opportunities.
 
 ---
 
